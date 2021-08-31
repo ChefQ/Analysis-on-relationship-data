@@ -9,3 +9,4 @@ Used feed forward neural network. I experimented with different layers until i g
 
 Results to the supervise analysis are [here](https://www.canva.com/design/DAD8uY7mWSg/whtrA992qguxSQlrPupugw/view?utm_content=DAD8uY7mWSg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 
 
+![alt=text](https://miro.medium.com/max/1037/0*GqoDKCp4OMevvttZ)
